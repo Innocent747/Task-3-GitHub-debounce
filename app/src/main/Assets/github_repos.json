@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "full_name": "JetBrains/kotlin",
+    "description": "The Kotlin Programming Language",
+    "stargazers_count": 48000,
+    "language": "Kotlin"
+  },
+  {
+    "id": 2,
+    "full_name": "square/okhttp",
+    "description": "HTTP client",
+    "stargazers_count": 45000,
+    "language": "Java"
+  }
+]
